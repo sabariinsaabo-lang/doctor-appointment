@@ -2,15 +2,22 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="container">
-      <h1>Contact Us</h1>
-      <p>If you have any questions, feel free to contact us.</p>
+    <div
+      style={{
+        maxWidth: "900px",
+        margin: "50px auto",
+        padding: "30px",
+        backgroundColor: "white",
+        borderRadius: "10px",
+        boxShadow: "0 4px 10px rgba(0,0,0,0.1)",
+        textAlign: "center"
+      }}
+    >
+      <h1 style={{ color: "#0d6efd" }}>Contact Us</h1>
 
-      <ul>
-        <li>Email: support@doctorappointment.com</li>
-        <li>Phone: +252 61 2345678</li>
-        <li>Address: Mogadishu, Somalia</li>
-      </ul>
+      <p>Email: GroupCgmail.com</p>
+      <p>Phone: +252 619367039</p>
+       
     </div>
   );
 };
