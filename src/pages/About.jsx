@@ -5,26 +5,28 @@ const About = () => {
     <div
       style={{
         maxWidth: "900px",
-        margin: "50px auto",
-        padding: "30px",
-        backgroundColor: "white",
-        borderRadius: "10px",
-        boxShadow: "0 4px 10px rgba(0,0,0,0.1)",
-        textAlign: "center"
+        margin: "60px auto",
+        padding: "40px",
+        background: "linear-gradient(135deg, #0d6efd, #6f42c1)",
+        borderRadius: "15px",
+        boxShadow: "0 10px 25px rgba(0,0,0,0.2)",
+        color: "white",
+        textAlign: "center",
+        fontFamily: "Arial, sans-serif"
       }}
     >
-      <h1 style={{ color: "#0d6efd" }}>About Us</h1>
+      <h1 style={{ fontSize: "36px", marginBottom: "20px" }}>
+        About Us
+      </h1>
 
-      <p style={{ fontSize: "16px", color: "#555" }}>
-        Welcome to our Doctor Appointment System.
-         
-      This platform helps patients
-        easily book appointments with qualified doctors online.
-      
-      <p>
-        Our goal is to make healthcare access simple, fast, and reliable for
-        everyone.
+      <p style={{ fontSize: "18px", lineHeight: "1.8" }}>
+        Our Doctor Appointment System helps patients book appointments
+        easily and quickly with trusted doctors.
       </p>
+      
+
+      <p style={{ fontSize: "16px", opacity: "0.9", marginTop: "15px" }}>
+        Fast • Secure • Reliable
       </p>
     </div>
   );
