@@ -50,44 +50,44 @@ export const assets = {
 };
 export const specialtiesData = [
   {
-    name: "Hematology",
-    image: Hematology,
-    description: "Diagnosis and treatment of blood-related disorders.",
+     name: "Cudurrada Dhiigga",
+    image: Dhiig,
+    description: "Ogaanshaha iyo daaweynta cudurrada la xiriira dhiigga.",
   },
   {
-    name: "Neurology",
-    image: Neurology,
-    description: "Care for brain, spine, and nervous system issues.",
+    name: "Cudurrada Maskaxda iyo Neerfaha",
+    image: MaskaxNeerfo,
+    description: "Daryeelka cudurrada maskaxda, lafdhabarta, iyo habdhiska neerfaha.",
   },
   {
-    name: "Oncology",
-    image: Oncology,
-    description: "Cancer prevention, diagnosis, and treatment services.",
+    name: "Cudurrada Kansarka",
+    image: Kansar,
+    description: "Ka hortagga, ogaanshaha, iyo daaweynta cudurrada kansarka.",
   },
   {
-    name: "Paediatrician",
-    image: Paediatrician,
-    description: "Specialized healthcare for infants, children, and teens.",
+    name: "Dhakhtarka Carruurta",
+    image: DhakhtarCarruur,
+    description: "Daryeel caafimaad oo gaar ah oo loogu talagalay dhallaanka, carruurta, iyo dhalinyarada.",
   },
   {
-    name: "Pulmonology",
-    image: Pulmonology,
-    description: "Treatment for lung and respiratory system conditions.",
+    name: "Cudurrada Sambabada",
+    image: Sambabo,
+    description: "Daaweynta cudurrada sambabada iyo habdhiska neefsashada.",
   },
   {
-    name: "Infection",
-    image: Infection,
-    description: "Expert care for bacterial, viral, and fungal infections.",
+    name: "Cudurrada Caabuqa",
+    image: Caabuq,
+    description: "Daryeel khabiirnimo leh oo loogu talagalay caabuqyada bakteeriyada, fayraska, iyo fangaska.",
   },
   {
-    name: "Cardiology",
-    image: Cardiology,
-    description: "Heart checkups, treatments, and cardiovascular care.",
+    name: "Cudurrada Wadnaha",
+    image: Wadne,
+    description: "Baaritaan, daaweyn, iyo daryeel ku saabsan cudurrada wadnaha.",
   },
   {
-    name: "Fever",
-    image: Fever,
-    description: "Quick consultation for fever and related symptoms.",
+    name: "Qandho",
+    image: Qandho,
+    description: "La-talin degdeg ah oo ku saabsan qandhada iyo calaamadaha la xiriira.",
   },
 ];
 
