@@ -173,38 +173,38 @@ export const doctorsData = [
   {
     _id: 1,
     image: doctor_1,
-    name: "Dr. Richmond Herrick",
-    specialty: "Neurosurgeon",
+    name: "Dr. Ahmed Ali ",
+    specialty: "Dhakhtarka Wadnaha",
     rating: 5,
-    education: "MBBS, MS (Neurosurgery)",
+    education: "MBBS",
     experience: "12 years",
     fees: 1500, // in PKR or USD
-    location: "City Hospital, Karachi",
-    phone: "+92-300-1234567",
-    email: "richmond.herrick@example.com",
+    location: "Xarunta Daryeelka Wadnaha",
+    phone: "0611111110",
+    email: "Ahmed Ali@gmail.com",
     buttonText: "Book Appointment",
   },
   {
     _id: 2,
     image: doctor_2,
     name: "Dr. Sabirin Mohamed abdi",
-    specialty: "Cudurada Caruurta",
+    specialty: "Dhaqtarka ",
     rating: 4.9,
-    education: "MBBS, MD (Cardiology)",
+    education: "MBBS",
     experience: "10 years",
     fees: 1200,
     location: "Heart Care Clinic, Lahore",
-    phone: "+92-322-9876543",
-    email: "olivia.bennett@example.com",
+    phone: "0619999991",
+    email: "Sabrin@gmail.com",
     buttonText: "Book Appointment",
   },
   {
     _id: 3,
     image: doctor_3,
-    name: "Dr. Sophia Martinez",
-    specialty: "Pediatrician",
+    name: "Dr. Siham Osman",
+    specialty: "Dhaqtarka Haweenka",
     rating: 4.8,
-    education: "MBBS, DCH (Pediatrics)",
+    education: "MBBS",
     experience: "8 years",
     fees: 1000,
     location: "Children’s Hospital, Islamabad",
@@ -215,7 +215,7 @@ export const doctorsData = [
   {
     _id: 4,
     image: doctor_4,
-    name: "Dr. Amelia Clarke",
+    name: "Dr. Ali Abdirahman",
     specialty: "Dermatologist",
     rating: 4.7,
     education: "MBBS, MD (Dermatology)",
@@ -234,54 +234,56 @@ export const testimonialsData = [
     name: "Johnathan Miller",
     designation: "Software Engineer",
     description:
-      "I had a wonderful experience booking my appointment through this platform. \
-The process was smooth and hassle-free. The doctor was professional and caring. \
-I was able to get a proper diagnosis quickly. Highly recommended for anyone seeking reliable healthcare services.",
+      "Waxaan la kulmay khibrad aad u wanaagsan markii aan ballan ka qabsanayay dhakhtar anigoo isticmaalaya platform-kan. \
+           Habka ballan-qaadashadu wuxuu ahaa mid sahlan oo aan wax dhib ah lahayn. \
+           Dhakhtarku wuxuu ahaa mid xirfad leh isla markaana daryeel badan. \
+           Waxaan si degdeg ah u helay ogaansho sax ah. \
+           Waxaan si weyn ugu talinayaa qof kasta oo raadinaya adeeg caafimaad oo lagu kalsoonaan karo.",
   },
   {
     image: t2,
     name: "Emily Johnson",
     designation: "Marketing Specialist",
     description:
-      "Booking a consultation was super easy and convenient. \
-              I loved how quickly I could find a doctor in my area. \
-              The tele-health option saved me a lot of time. \
-              Great service, I will definitely use it again in the future.",
+      "Ballan ka qabsashada la-talin caafimaad waxay ahayd mid aad u fudud oo raaxo leh. \
+          Aad ayaan uga helay sida degdegga ah ee aan ku heli karo dhakhtar ii dhow. \
+          Adeegga la-talin online ah (tele-health) wuxuu ii badbaadiyay waqti badan. \
+          Adeeg aad u fiican, waana hubaa inaan mar kale isticmaali doono mustaqbalka.",
   },
   {
     image: t3,
     name: "Michael Brown",
     designation: "Business Analyst",
     description:
-      "The platform is very user-friendly and well-designed. \
-I was able to compare doctors and choose the best one for my needs. \
-The appointment reminder system is a great touch. \
-I felt supported throughout the whole process.",
+      "Platform-kan waa mid si fudud loo isticmaali karo isla markaana si qurux badan loo naqshadeeyay. \
+       Waxaan awooday inaan isbarbar dhigo dhakhaatiirta oo aan doorto kan iigu habboon baahidayda. \
+      Nidaamka xasuusinta ballanta waa mid aad u wanaagsan. \
+      Waxaan dareemay taageero buuxda inta aan adeegga isticmaalayay.",
   },
 ];
 export const galleryData = [
   {
     image: gallery_1,
-    heading: "Surgeons in ICU",
+    heading: "Qolka Qalliinka",
     description:
-      "Our experienced surgeons performing critical procedures with precision.",
+      "Qol qalliineed oo si buuxda u qalabaysan, kuna shaqeeya tiknoolajiyad casri ah iyo badbaado sare.",
   },
   {
     image: gallery_2,
-    heading: "Modern Operation Theatre",
+    heading: "Qolka Bukaanka",
     description:
-      "Fully equipped OT with advanced surgical technology and safety standards.",
+      "Qolal nadiif ah oo raaxo leh si loo daryeelo bukaanka.",
   },
   {
     image: gallery_3,
-    heading: "Emergency Ward",
+    heading: "Qolka Gurmadka Degdegga ah",
     description:
-      "Round-the-clock emergency care available for all patients in need.",
+      "Daryeel degdeg ah oo 24 saac ah diyaar u ah dhammaan bukaannada u baahan.",
   },
   {
     image: gallery_4,
-    heading: "Patient Recovery Room",
+    heading: "Qolka Soo-kabashada Bukaanka",
     description:
-      "Comfortable and clean recovery space for post-surgery patient care.",
+      "Goob nadiif ah oo raaxo leh oo loogu talagalay bukaanka ka soo kabanaya qalliinka kadib",
   },
 ];
