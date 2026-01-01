@@ -10,24 +10,24 @@ import doctor_2 from "./doctor_2.jpg";
 import doctor_3 from "./doctor_3.jpg";
 import doctor_4 from "./doctor_4.jpg";
 import doctor from "./doctor.png";
-import Qandho from "./Fever.png";
+import Fever from "./Fever.png";
 import gallery_1 from "./gallery_1.jpg";
 import gallery_2 from "./gallery_2.jpg";
 import gallery_3 from "./gallery_3.jpg";
 import gallery_4 from "./gallery_4.jpg";
 
-import  Dhiig from "./Hematology.png";
+import  Hematology from "./Hematology.png";
 import hero_img from "./hero_img.jpg";
 import home from "./home.png";
-import MaskaxNeerfo from "./Infection.png";
+import Infection from "./Infection.png";
 import mission_img1 from "./mission_img1.jpg";
 import mission_img2 from "./mission_img2.jpg";
 import mobile from "./mobile.png";
-import MaskaxNeerfo  from "./Neurology.png";
-import Kansar from "./Oncology.png";
-import Sambabo from "./Paediatrician.png";
+import Neurology  from "./Neurology.png";
+import Oncology from "./Oncology.png";
+import Paediatrician from "./Paediatrician.png";
 import profile from "./profile.png";
-import DhakhtarCarruur from "./Pulmonology.png";
+import Pulmonology from "./Pulmonology.png";
 import t1 from "./t1.jpg";
 import t2 from "./t2.jpg";
 import t3 from "./t3.jpg";
@@ -50,46 +50,48 @@ export const assets = {
 };
 export const specialtiesData = [
   {
-     name: "Cudurrada Dhiigga",
-    image: Dhiig,
+    name: "Cudurrada Dhiigga",
+    image: Hematology,
     description: "Ogaanshaha iyo daaweynta cudurrada la xiriira dhiigga.",
   },
   {
     name: "Cudurrada Maskaxda iyo Neerfaha",
-    image: MaskaxNeerfo,
+    image: Neurology,
     description: "Daryeelka cudurrada maskaxda, lafdhabarta, iyo habdhiska neerfaha.",
   },
   {
     name: "Cudurrada Kansarka",
-    image: Kansar,
+    image: Oncology,
     description: "Ka hortagga, ogaanshaha, iyo daaweynta cudurrada kansarka.",
   },
   {
     name: "Dhakhtarka Carruurta",
-    image: DhakhtarCarruur,
+    image: Paediatrician,
     description: "Daryeel caafimaad oo gaar ah oo loogu talagalay dhallaanka, carruurta, iyo dhalinyarada.",
   },
   {
     name: "Cudurrada Sambabada",
-    image: Sambabo,
+    image: Pulmonology,
     description: "Daaweynta cudurrada sambabada iyo habdhiska neefsashada.",
   },
   {
     name: "Cudurrada Caabuqa",
-    image: Caabuq,
+    image: Infection,
     description: "Daryeel khabiirnimo leh oo loogu talagalay caabuqyada bakteeriyada, fayraska, iyo fangaska.",
   },
   {
-    name: "Cardiology",
+    name: "Cudurrada Wadnaha",
     image: Cardiology,
-    description: "Baaritaan, daaweyn, iyo daryeel ku saabsan cudurrada wadnaha.",
+    description: "Baaritaan, daaweyn, iyo daryeel dhamaystiran oo ku saabsan cudurrada wadnaha.",
   },
   {
     name: "Qandho",
-    image: Qandho,
+    image: Fever,
     description: "La-talin degdeg ah oo ku saabsan qandhada iyo calaamadaha la xiriira.",
   },
 ];
+
+
 
 export const featuresData = [
   {
