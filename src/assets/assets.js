@@ -10,7 +10,7 @@ import doctor_2 from "./doctor_2.jpg";
 import doctor_3 from "./doctor_3.jpg";
 import doctor_4 from "./doctor_4.jpg";
 import doctor from "./doctor.png";
-import Fever from "./Fever.png";
+import Qandho from "./Fever.png";
 import gallery_1 from "./gallery_1.jpg";
 import gallery_2 from "./gallery_2.jpg";
 import gallery_3 from "./gallery_3.jpg";
@@ -80,8 +80,8 @@ export const specialtiesData = [
     description: "Daryeel khabiirnimo leh oo loogu talagalay caabuqyada bakteeriyada, fayraska, iyo fangaska.",
   },
   {
-    name: "Cudurrada Wadnaha",
-    image: Wadne,
+    name: "Cardiology",
+    image: Cardiology,
     description: "Baaritaan, daaweyn, iyo daryeel ku saabsan cudurrada wadnaha.",
   },
   {
@@ -215,15 +215,15 @@ export const doctorsData = [
   {
     _id: 4,
     image: doctor_4,
-    name: "Dr. Ali Abdirahman",
+    name: "Dr. Aisha Abdirahman",
     specialty: "Dermatologist",
     rating: 4.7,
     education: "MBBS, MD (Dermatology)",
     experience: "7 years",
     fees: 900,
     location: "Skin Care Clinic, Karachi",
-    phone: "+92-312-2233445",
-    email: "amelia.clarke@example.com",
+    phone: "0612334374",
+    email: "Aisha@gmail.com",
     buttonText: "Book Appointment",
   },
 ];
