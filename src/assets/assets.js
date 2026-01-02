@@ -96,81 +96,84 @@ export const specialtiesData = [
 export const featuresData = [
   {
     image: home,
-    heading: "Home MD",
+      heading: "Daryeel Caafimaad Guriga",
     description:
-      "Get medical care from the comfort of your home. Our qualified doctors visit you when you need them most.",
+      "Ka hel daryeel caafimaad adigoo jooga raaxada gurigaaga. Dhakhaatiirteena aqoonta leh ayaa kuu imanaya marka aad u baahato.",
   },
   {
-    image: calculator,
-    heading: "Book Appointment",
-    description:
-      "Easily schedule appointments with just a few clicks. Choose your doctor, date, and time instantly.",
-  },
+  image: calculator,
+  heading: "Qabso Ballan",
+  description:
+    "Si fudud u qabso ballan adigoo isticmaalaya dhowr gujis oo kaliya. Dooro dhakhtarka, taariikhda, iyo waqtiga isla markiiba.",
+},
+{
+  image: mobile,
+  heading: "Caafimaad Fog (Tele-Health)",
+  description:
+    "La xiriir dhakhaatiirta adigoo adeegsanaya wicitaanno muuqaal ah oo ammaan ah. Hel talo khabiir adoon guriga ka bixin.",
+},
+
   {
-    image: mobile,
-    heading: "Tele-Health",
-    description:
-      "Connect with doctors virtually through secure video calls. Get expert advice without leaving your home.",
-  },
-  {
-    image: telephone,
-    heading: "Get Consultation",
-    description:
-      "Talk to a doctor over the phone for quick medical guidance. Perfect for follow-ups and urgent concerns.",
-  },
+  image: telephone,
+heading: "Hel La-talin",
+description:
+  "Kala hadal dhakhtar taleefan si aad u hesho talo caafimaad oo degdeg ah. Ku habboon la-socodka xaaladdaada iyo arrimaha degdegga ah.",
+  }
 ];
 export const howItWorks = [
   {
     icon: CheckCheckIcon,
-    heading: "Choose Medical Specialist",
+    heading: "Dooro Takhasus Caafimaad",
     description:
-      "Browse and select from our wide range of verified doctors. Find the right specialist for your health concern.",
+      "Ka dhex baadh oo ka dooro dhakhaatiir la hubiyay oo kala duwan. Hel takhasuska ku habboon baahidaada caafimaad.",
   },
   {
     icon: CheckCheckIcon,
-    heading: "Choose Consultation Service",
+    heading: "Dooro Adeegga La-tashiga",
     description:
-      "Pick how you want to consult — in-person, tele-health, or phone. We make healthcare convenient for you.",
+      "Dooro sida aad u rabto la-tashiga — kulan toos ah, adeeg caafimaad online ah, ama taleefan. Waxaan ka dhignay daryeelka caafimaadka mid kuu fudud.",
   },
   {
     icon: CheckCheckIcon,
-    heading: "Make an Appointment",
+    heading: "Samee Ballan",
     description:
-      "Schedule your appointment in just a few clicks. Get instant confirmation for your preferred date and time.",
+      "Qabso ballantaada adigoo dhowr tallaabo kaliya raacaya. Hel xaqiijin degdeg ah taariikhda iyo waqtiga aad dooratay.",
   },
   {
     icon: CheckCheckIcon,
-    heading: "Get Diagnosed",
+    heading: "Hel Baaritaan & Ogaansho",
     description:
-      "Meet with the doctor and receive a proper diagnosis. Follow-up instructions and treatment plans included.",
+      "La kulan dhakhtarka oo hel ogaansho sax ah. Waxaa ku jira tilmaamo dabagal ah iyo qorshaha daaweynta.",
   },
 ];
+
 export const benefitsData = [
   {
     image: car,
-    heading: "Fast And Reliable",
+    heading: "Degdeg & Lagu Kalsoonaan Karo",
     description:
-      "Get quick access to medical services with minimal waiting time. We ensure timely and trustworthy care.",
+      "Hel adeeg caafimaad si dhakhso leh adigoon waqti badan sugin. Waxaan hubinaynaa daryeel waqtigiisa ah oo lagu kalsoonaan karo.",
   },
   {
     image: clock,
-    heading: "Healthcare Anywhere Any Time",
+    heading: "Caafimaad Meel Kasta & Waqti Kasta",
     description:
-      "Book consultations 24/7 from any location. Your health support is available whenever you need it.",
+      "Qabso la-tashiyo 24/7 meel kasta oo aad joogto. Taageerada caafimaadka waa kuu diyaar mar kasta oo aad u baahato.",
   },
   {
     image: doctor,
-    heading: "Experienced Professionals",
+    heading: "Xirfadlayaal Khibrad Leh",
     description:
-      "Our team consists of verified and skilled doctors. Receive quality treatment from trusted experts.",
+      "Kooxdayadu waxay ka kooban tahay dhakhaatiir la xaqiijiyay oo aqoon sare leh. Hel daaweyn tayo leh oo aad ku kalsoonaan karto.",
   },
   {
     image: calculator,
-    heading: "Easy Appointment",
+    heading: "Ballan Qabasho Fudud",
     description:
-      "Scheduling is simple and user-friendly. Choose your doctor, select a slot, and confirm instantly.",
+      "Jadwal sameyntu waa sahlan tahay oo la fahmi karo. Dooro dhakhtar, dooro waqtiga, kadibna si degdeg ah u xaqiiji.",
   },
 ];
+
 export const doctorsData = [
   {
     _id: 1,
