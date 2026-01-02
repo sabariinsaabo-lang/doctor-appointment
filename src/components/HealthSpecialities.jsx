@@ -10,9 +10,9 @@ const HealthSpecialities = () => {
       </h1>
       <p className="max-w-xl text-lg font-medium mx-auto">
         {" "}
-        Our healthcare specialties cover a wide range of medical services
-        designed to meet every patient’s unique needs. From routine checkups to
-        advanced treatments, we ensure expert care at every step.
+       Takhasusyada daryeelka caafimaad ee aan bixino waxay daboolayaan adeegyo caafimaad oo kala duwan, 
+       kuwaas oo loogu talagalay in ay buuxiyaan baahiyaha gaarka ah ee bukaan kasta. 
+       Laga bilaabo baaritaanno caadi ah ilaa daaweyn heer sare ah, waxaan hubinaynaa daryeel xirfad leh tallaabo kasta.
       </p>
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-center justify-center">
         {healthSpecialties.map((specialty, index) => (

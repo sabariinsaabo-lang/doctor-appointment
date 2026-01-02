@@ -9,9 +9,8 @@ const HowItWorks = () => {
       </h1>
       <p className="text-center text-white mt-4 max-w-2xl mx-auto px-4">
         {" "}
-        Our streamlined approach makes healthcare simple, efficient, and
-        stress-free. We focus on delivering the right care at the right time for
-        your well-being.
+       Hab-hawleedkeenna fududeysan wuxuu ka dhigayaa daryeelka caafimaadka mid sahlan, hufan, oo aan walbahaar lahayn.
+        Waxaan diiradda saareynaa bixinta daryeelka saxda ah waqtiga ku habboon si loo ilaaliyo caafimaadkaaga.
       </p>
 
       <div className="max-w-7xl mx-auto mt-10 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4  justify-center items-center">

@@ -11,8 +11,8 @@ const OurDoctors = () => {
       </h1>
       <p className="text-center text-gray-600 mt-4 max-w-2xl mx-auto px-4">
         {" "}
-        Our team of highly qualified specialists is dedicated to providing
-        expert care tailored to your unique health needs.
+       Kooxdayada takhasusleyaal aqoon sare leh waxay u heellan yihiin bixinta 
+       daryeel khibrad leh oo si gaar ah ugu habboon baahiyahaaga caafimaad.
       </p>
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 items-center justify-center gap-5 mt-10">
         {doctorsData.map((doctor, index) => (

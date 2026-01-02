@@ -12,14 +12,13 @@ const Mission = () => {
             Mission and Values
           </h1>
           <p className="px-2">
-            Our mission is to provide exceptional healthcare services with
-            compassion, innovation, and excellence, ensuring every patient
-            receives personalized care.
+           Hadafkeenna waa inaan bixino adeegyo daryeel caafimaad oo heer sare ah, 
+           annagoo ku shaqeynayna naxariis, hal-abuur, iyo tayada ugu sarreysa, si bukaan kasta uu u helo daryeel u gaar ah .
           </p>
           <p className="px-2">
             {" "}
-            We are guided by integrity, respect, and commitment to quality,
-            working together to build healthier communities and inspire trust.
+         Waxaan ku hagannaa daacadnimo, ixtiraam, iyo u heellanaanta tayada, annagoo wada shaqeynayna
+          si aan u dhisno bulshooyin caafimaad qaba isla markaana aan u kasbanno kalsoonida dadka
           </p>
 
           {valueData.map((value, index) => (

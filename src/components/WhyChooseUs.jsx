@@ -18,8 +18,8 @@ const WhyChooseUs = () => {
           </h1>
           <p className=" text-gray-600 mt-4 max-w-2xl mx-auto px-4">
             {" "}
-            Equipped with the latest advancements, we use cutting-edge
-            technology to ensure accuracy, efficiency, and top-quality outcomes.
+            Annagoo ku qalabeysan horumarradii ugu dambeeyay, waxaan adeegsannaa tignoolajiyada casriga ah 
+            si aan u hubinno saxnaan, hufnaan, iyo natiijooyin tayo sare leh.
           </p>
           <div>
             {benefitsData.map((item, index) => (

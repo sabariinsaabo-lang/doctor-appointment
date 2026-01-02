@@ -18,9 +18,8 @@ const Hero = () => {
         </h1>
         <p className="text-white max-w-lg text-center text-lg mt-4">
           {" "}
-          Our experienced doctors and modern facilities ensure you receive the
-          best treatment, anytime you need it. We’re here to provide
-          compassionate, reliable care for you and your loved ones.
+          Dhakhaatiirteena khibradda leh iyo xarumaha casriga ah waxay hubinayaan inaad hesho daaweynta ugu wanaagsan mar kasta oo aad u baahato. 
+          Waxaan halkan u joognaa inaan ku siino daryeel naxariis leh oo lagu kalsoonaan karo adiga iyo dadka aad jeceshahay.
         </p>
 
         <div className="flex flex-col md:flex-row gap-2 items-center md:gap-5 p-5">
